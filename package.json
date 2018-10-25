@@ -1,0 +1,19 @@
+{
+  "name": "wd-pro-common",
+  "version": "1.0.0",
+  "description": "a project of packages to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "storage",
+    "querystring",
+    "obj",
+    "arr",
+    "str",
+    "reg"
+  ],
+  "author": "mapbar_front",
+  "license": "ISC"
+}
